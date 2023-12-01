@@ -2,5 +2,5 @@
 
 
 ## Description
-- Lesson 1 - Intro to Python
+- Lesson 1 - Intro to Python: Variables, Data Types, & Mathematical Operators
 
