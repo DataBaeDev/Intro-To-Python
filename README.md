@@ -2,6 +2,7 @@
 
 
 ## Description
+A concise collection of Python Notebooks that provide useful information for new learners.
 - [Lesson 1](https://gitlab.com/ronisha_h/python-lessons/-/blob/main/Lesson%201%20-%20IntroToPython+BasicOperations.ipynb) - Intro to Python: Variables, Data Types, & Mathematical Operators
 - [Lesson 2](https://gitlab.com/ronisha_h/python-lessons/-/blob/main/Lesson%202%20-PythonStrings_and_Collections.ipynb) - Strings and Collections
 - [Lesson 3](https://gitlab.com/ronisha_h/python-lessons/-/blob/main/Lesson%203%20-%20ControlFlow.ipynb) - Control Flow
